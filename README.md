@@ -1,5 +1,5 @@
 # Trip Management System
-#Check out Frontend - [LIVE NOW](https://tms-app.netlify.app/).
+# Check out Frontend - [LIVE NOW](https://tms-app.netlify.app/).
 
 ## Capgemini Fresher's Training Project in Java Full-Stack with React JS
 
