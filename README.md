@@ -1,4 +1,4 @@
-## Trip Management System
+# Trip Management System
 
-# Capgemini Fresher's Training Project in Java Full-Stack with React JS
+## Capgemini Fresher's Training Project in Java Full-Stack with React JS
  
